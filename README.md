@@ -1,18 +1,20 @@
 ---
-title: Group Project
+title: CISC 322 Group Project
 ---
 
-# Group Project Title
+# Gemini CLI - Breakdown
 
 This site hosts the documents for our group project.
 
 ## Project Documents
 
-- [Final Report (PDF)](pdfs/report.pdf)
-- [Presentation Slides (PDF)](pdfs/slides.pdf)
+- [Reports (PDF)](reports/test1.pdf)
+- [Presentation Slides (PDF)](reports/test1.pdf)
 
 ## Group Members
 
-- Member 1
-- Member 2
-- Member 3
+- Member Logan Jarvis
+- Member Kalan Morris-Poolman
+- Member Riche Cai
+- Member Colin Dreany
+- Member Ocean Marnoch
