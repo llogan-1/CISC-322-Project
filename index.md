@@ -10,7 +10,7 @@ This site hosts the documents for our group project.
 
 # A1
 
-- [Reports (PDF)](reports/CISC 322 - Project 1 - A1.pdf)
+- [Report 1 (PDF)](reports/CISC 322 - Project 1 - A1.pdf)
 
 # We were exempt from the presentation portion.
 
