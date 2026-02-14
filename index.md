@@ -8,8 +8,11 @@ This site hosts the documents for our group project.
 
 ## Project Documents
 
-- [Reports (PDF)](reports/test1.pdf)
-- [Presentation Slides (PDF)](reports/test1.pdf)
+# A1
+
+- [Reports (PDF)](reports/CISC 322 - Project 1 - A1.pdf)
+
+# We were exempt from the presentation portion.
 
 ## Group Members
 
