@@ -28,4 +28,3 @@ This site hosts the documents for our group project.
 - Member Kalan Morris-Poolman
 - Member Riche Cai
 - Member Colin Dreany
-- Member Ocean Marnoch
