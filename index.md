@@ -14,6 +14,14 @@ This site hosts the documents for our group project.
 
 # We were exempt from the presentation portion.
 
+# A2
+
+- [Report 2 (PDF)](reports/CISC%20322%20-%20Project%20-%20A2.pdf)
+
+- [Presentation Slides 2 (ppxt)](slides/CISC%20322%20Presentation%202.pptx)
+
+- [Video Link (url)](https://www.youtube.com/watch?v=fgL4azMz3Ew&feature=youtu.be)
+
 ## Group Members
 
 - Member Logan Jarvis
